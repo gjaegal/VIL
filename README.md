@@ -11,11 +11,11 @@ In this project, we
 2) Explore different types of input videos to improve performance
 
 ## 👥Team Members
-Hwang Soonmin (황순민) - YAI 14th  
-Lee Youngjoo (이영주) - YAI 14th  
-Kim Suran (김수란) - YAI 14th  
-Kim Seojin (김서진) - YAI 14th  
-Jaegal Gun (제갈건) - YAI 12th  
+* Jaegal Gun (제갈건) - YAI 12th  
+* Hwang Soonmin (황순민) - YAI 14th  
+* Lee Youngjoo (이영주) - YAI 14th  
+* Kim Suran (김수란) - YAI 14th  
+* Kim Seojin (김서진) - YAI 14th  
 
 ## Download Pretrained Models
 1. SAM2
