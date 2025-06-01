@@ -3,7 +3,7 @@ Video Imitation Learning
 
 YAICON 6th project
 
-## Introduction
+## ☀️Introduction
 ![Demo GIF](./demo.gif)
 
 In robot learning, we often face tasks where little or no expert data is available for training.
