@@ -36,6 +36,7 @@ mv NIL/TimeSformer/timesformer/pretrained/TimeSformer_divST_8x32_224_K400.pyth \
 ## Installation
 
 ```
+cd NIL
 pip install -r requirements.txt
 ```
 
