@@ -18,13 +18,13 @@ In this project, we
 * Kim Seojin (김서진) - YAI 14th  
 
 ## Download Pretrained Models
-1. SAM2
+1. SAM2  
 download sam2.1_hiera_large.pt from this [link](https://dl.fbaipublicfiles.com/segment_anything_2/092824/sam2.1_hiera_large.pt) to NIL/sam2_repo/checkpoints or run the follwing code:
 ```
 wget -O https://dl.fbaipublicfiles.com/segment_anything_2/092824/sam2.1_hiera_large.pt NIL/sam2_repo/checkpoints/sam2.1_hiera_large.pt
 ```
 
-2. TimeSformer
+2. TimeSformer  
 ```
 mkdir -p NIL/TimeSformer/timesformer/pretrained
 wget -O NIL/TimeSformer/timesformer/pretrained/TimeSformer_divST_8x32_224_K400.pyth \
