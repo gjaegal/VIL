@@ -1,7 +1,11 @@
 # 🎥 VIL
 Video Imitation Learning
 
+YAICON 6th project
+
 ## Introduction
+![Demo GIF](./demo.gif)
+
 In robot learning, we often face tasks where little or no expert data is available for training.
 This project explores how well imitation learning can perform in this situation. Inspired by the paper "NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models",
 we leverage video diffusion models to generate an input video and directly use video simularity as a reward signal for imitation learning in locomotion tasks. We also experiment with an SMPL-based blender rendered video, which we created from an existing reference video.
